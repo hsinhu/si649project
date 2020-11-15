@@ -1,0 +1,130 @@
+country,Total,Medal_type,value,order
+Norway,368,Gold,132,0
+United States,305,Gold,105,0
+Germany,240,Gold,92,0
+Soviet Union,194,Gold,78,0
+Canada,199,Gold,73,0
+Austria,232,Gold,64,0
+Sweden,158,Gold,57,0
+Switzerland,153,Gold,55,0
+Russia,120,Gold,47,0
+Netherlands,130,Gold,45,0
+Finland,167,Gold,43,0
+Italy,124,Gold,40,0
+East Germany,110,Gold,39,0
+France,124,Gold,36,0
+South Korea,70,Gold,31,0
+Japan,58,Gold,14,0
+China,62,Gold,13,0
+West Germany,39,Gold,11,0
+Great Britain,31,Gold,11,0
+Czech Republic,31,Gold,9,0
+Belarus,18,Gold,8,0
+Poland,22,Gold,7,0
+Australia,15,Gold,5,0
+Croatia,11,Gold,4,0
+Estonia,7,Gold,4,0
+Slovakia,8,Gold,3,0
+Ukraine,8,Gold,3,0
+Czechoslovakia,25,Gold,2,0
+Slovenia,17,Gold,2,0
+Liechtenstein,10,Gold,2,0
+Kazakhstan,8,Gold,1,0
+Hungary,7,Gold,1,0
+Belgium,6,Gold,1,0
+Bulgaria,6,Gold,1,0
+Spain,4,Gold,1,0
+Uzbekistan,1,Gold,1,0
+Latvia,8,Gold,0,0
+Yugoslavia,4,Gold,0,0
+Luxembourg,2,Gold,0,0
+New Zealand,3,Gold,0,0
+North Korea,2,Gold,0,0
+Denmark,1,Gold,0,0
+Romania,1,Gold,0,0
+Norway,368,Silver,125,1
+United States,305,Silver,110,1
+Germany,240,Silver,88,1
+Soviet Union,194,Silver,57,1
+Canada,199,Silver,64,1
+Austria,232,Silver,81,1
+Sweden,158,Silver,46,1
+Switzerland,153,Silver,46,1
+Russia,120,Silver,38,1
+Netherlands,130,Silver,44,1
+Finland,167,Silver,63,1
+Italy,124,Silver,36,1
+East Germany,110,Silver,36,1
+France,124,Silver,35,1
+South Korea,70,Silver,25,1
+Japan,58,Silver,22,1
+China,62,Silver,28,1
+West Germany,39,Silver,15,1
+Great Britain,31,Silver,4,1
+Czech Republic,31,Silver,11,1
+Belarus,18,Silver,5,1
+Poland,22,Silver,7,1
+Australia,15,Silver,5,1
+Croatia,11,Silver,6,1
+Estonia,7,Silver,2,1
+Slovakia,8,Silver,4,1
+Ukraine,8,Silver,1,1
+Czechoslovakia,25,Silver,8,1
+Slovenia,17,Silver,5,1
+Liechtenstein,10,Silver,2,1
+Kazakhstan,8,Silver,3,1
+Hungary,7,Silver,2,1
+Belgium,6,Silver,2,1
+Bulgaria,6,Silver,2,1
+Spain,4,Silver,0,1
+Uzbekistan,1,Silver,0,1
+Latvia,8,Silver,4,1
+Yugoslavia,4,Silver,3,1
+Luxembourg,2,Silver,2,1
+New Zealand,3,Silver,1,1
+North Korea,2,Silver,1,1
+Denmark,1,Silver,1,1
+Romania,1,Silver,0,1
+Norway,368,Bronze,111,2
+United States,305,Bronze,90,2
+Germany,240,Bronze,60,2
+Soviet Union,194,Bronze,59,2
+Canada,199,Bronze,62,2
+Austria,232,Bronze,87,2
+Sweden,158,Bronze,55,2
+Switzerland,153,Bronze,52,2
+Russia,120,Bronze,35,2
+Netherlands,130,Bronze,41,2
+Finland,167,Bronze,61,2
+Italy,124,Bronze,48,2
+East Germany,110,Bronze,35,2
+France,124,Bronze,53,2
+South Korea,70,Bronze,14,2
+Japan,58,Bronze,22,2
+China,62,Bronze,21,2
+West Germany,39,Bronze,13,2
+Great Britain,31,Bronze,16,2
+Czech Republic,31,Bronze,11,2
+Belarus,18,Bronze,5,2
+Poland,22,Bronze,8,2
+Australia,15,Bronze,5,2
+Croatia,11,Bronze,1,2
+Estonia,7,Bronze,1,2
+Slovakia,8,Bronze,1,2
+Ukraine,8,Bronze,4,2
+Czechoslovakia,25,Bronze,15,2
+Slovenia,17,Bronze,10,2
+Liechtenstein,10,Bronze,6,2
+Kazakhstan,8,Bronze,4,2
+Hungary,7,Bronze,4,2
+Belgium,6,Bronze,3,2
+Bulgaria,6,Bronze,3,2
+Spain,4,Bronze,3,2
+Uzbekistan,1,Bronze,0,2
+Latvia,8,Bronze,4,2
+Yugoslavia,4,Bronze,1,2
+Luxembourg,2,Bronze,0,2
+New Zealand,3,Bronze,2,2
+North Korea,2,Bronze,1,2
+Denmark,1,Bronze,0,2
+Romania,1,Bronze,1,2
