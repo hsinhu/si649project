@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: smooth;
+}
+
+/*body{
+  background-color: #ddd;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}*/
+
+h1{
+  font-size: 35px;
+  line-height: 1;
+  padding: 30px 0;
+  text-align: center;
+}
+
+h2{
+  font-size: 25px;
+  padding: 10px 20px;
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: 20px;
+  padding: 0 20px;
+
+
+}
+
+.vis-container{
+  height: 500px;
+  /* width: 500px; */
+}
+
+/* .ff-IFrameSizedToWindow{
+  height: 600px;
+} */
