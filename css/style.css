@@ -2,12 +2,12 @@ html{
     scroll-behavior: smooth;
 }
 
-/*body{
-  background-color: #ddd;
+body{
+  /* background-color: #ddd; */
   font-size: 18px;
   margin: 0;
   padding: 0;
-}*/
+}
 
 h1{
   font-size: 35px;
@@ -18,20 +18,25 @@ h1{
 
 h2{
   font-size: 25px;
-  padding: 10px 20px;
+  padding: 5px 20px;
   line-height: 1.5;
+  font-weight: bold;
 }
 
 h4 {
   font-size: 20px;
-  padding: 0 20px;
+  padding: 5px 20px;
 
 
 }
 
-.vis-container{
-  height: 500px;
-  /* width: 500px; */
+.tableauPlaceholder{
+  height: 600px;
+}
+
+#jumbotron1{
+  /* margin-bottom: 0px; */
+  height: 1200px;
 }
 
 /* .ff-IFrameSizedToWindow{
